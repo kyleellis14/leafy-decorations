@@ -37,9 +37,7 @@ html {
 }
 
 .banner {
-  background:
-  linear-gradient(to top, rgba(16, 52, 41, .8) 20%, rgba(16, 52, 41, 0) 60%),
-  url("../images/banner.jpg");
+  background:linear-gradient(to top, rgba(16, 52, 41, .8) 20%, rgba(16, 52, 41, 0) 60%), url("../images/banner.jpg");
   background-repeat: no-repeat;
   background-position: center bottom;
   color: #fff;
